@@ -1,2 +1,2 @@
 # youdummy
-a funny tinyproject 
+a funny tiny project 
